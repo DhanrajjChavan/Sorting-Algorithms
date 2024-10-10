@@ -12,7 +12,7 @@ Sorting is a fundamental operation in computer science and is widely used in man
 ## Sorting Algorithms
 
 ### 1. Bubble Sort
-
+ 
 **Description:**
 
 Bubble Sort repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The largest unsorted element "bubbles up" to the correct position at the end of the array.
